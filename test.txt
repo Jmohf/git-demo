@@ -1,6 +1,3 @@
-
-this is hot-fix data..........
-
 hello world!!! hello git ~~ 
 hello world!!! hello git ~~ 
 hello world!!! hello git ~~ 
